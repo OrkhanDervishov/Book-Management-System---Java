@@ -6,9 +6,6 @@
 + Purpose of The System
 + Installation
 + Usage
-+ Development Process
-+ Presentation
-+ License
 
 ## Introduction
 This README provides an overview of the project, instructions for installation and usage, details about the development process, and a link to the presentation video.
