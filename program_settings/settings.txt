@@ -1,0 +1,2 @@
+review_index=12
+rating_index=10

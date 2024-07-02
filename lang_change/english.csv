@@ -1,0 +1,65 @@
+Login
+Register
+Username
+Password
+Repeat Password
+Already have an account?
+Do not have an account?
+Register here
+Login here
+
+Wrong username or password
+User with this username allready exists
+Passwords are not the same
+Password must min 8 and max 32 symbols
+Username must be min 2 and max 32 symbols
+
+Book Database
+Book Database Admin
+
+General Database
+Title
+Author
+Rating
+Reviews
+No Reviews
+No Ratings
+
+Personal Database
+Status
+Time Spent
+Start Date
+End Date
+User Review
+User Rating
+Not Started
+Book already added.
+
+Add
+Added
+Remove
+Add Book
+Added Book:
+Add Review
+Add Rating
+Search
+
+Edit
+Add New Book
+Delete Book
+Delete User
+Remove Review
+admin is reserved
+Operation
+Confirm
+
+Failed to load data from file
+Failed to read data from file
+Error
+
+Log out
+Select a user
+Remove book
+Book details
+Select a user to delete:
+Please select a book to delete
